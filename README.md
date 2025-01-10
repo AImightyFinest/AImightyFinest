@@ -1,4 +1,5 @@
-## Hi there 👋
+## Salut 👋
+Je m'appelle Yacine et j'ai 21ans. Je suis actuellement en 1ere année de BTS SIO option SLAM au lycée Voillaume.
+Je suis passionné par le dev et je suis prêt à exceller dans ce domaine.
 
-- 🔭 I’m currently working on a brand new portfolio repertoring my projects.
-- 🌱 I’m currently learning new programming languages.
+Je suis débutant mais je sais me débrouiller sur quelques langages de programmation.
