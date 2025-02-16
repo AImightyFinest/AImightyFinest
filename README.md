@@ -10,14 +10,9 @@ Passionné par le développement web, je crée des applications modernes et perf
 - 🔹 Backend : PHP
 - 🔹 Base de données : MySQL
 - 🔹 Autres : Git
-
-## 📈 Statistiques GitHub
-
-## 🏆 Trophées GitHub
-
+- 
 ## 📫 Me contacter
 - 📧 Email : yacinebelabes93@gmail.com
 - 💼 LinkedIn : https://www.linkedin.com/in/belabes-yacine/
 
-N'hésite pas à explorer mes dépôts et contribuer ensemble à des projets sympas ! 🚀
 
